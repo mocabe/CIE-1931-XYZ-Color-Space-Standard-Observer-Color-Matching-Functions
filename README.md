@@ -7,7 +7,7 @@ Data is not exactly same to original CIE1931 CMF but the difference is negligibl
 - Date:  
   2018.06.18
 - Lisence:  
-  Unlisenced  
+  Unlicensed  
 ---
 ```txt
 This is free and unencumbered software released into the public domain.
